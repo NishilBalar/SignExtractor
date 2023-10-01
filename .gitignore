@@ -1,0 +1,6 @@
+.venv
+.vscode
+__pychache__
+trial.ipynb
+utils/__pycache__
+*.pyc
